@@ -1,6 +1,6 @@
 # Scouting Classification with Machine Learning
 
-![Project Image](https://www.sportsbusinessjournal.com/-/media/Sporttechie/2022/08/17/soccer_scouting_part_3_lead_image.ashx?mw=768))
+![Project Image](https://www.sportsbusinessjournal.com/-/media/Sporttechie/2022/08/17/soccer_scouting_part_3_lead_image.ashx?mw=768)
 
 ## Business Problem
 
