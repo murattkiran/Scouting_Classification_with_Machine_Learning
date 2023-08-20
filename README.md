@@ -1,10 +1,6 @@
 # Scouting Classification with Machine Learning
 
-![Project Image](https://www.sportsbusinessjournal.com/-/media/Sporttechie/2022/08/17/soccer_scouting_part_3_lead_image.ashx?mw=768)) <!-
-
-## Project Description
-
-This project includes salary prediction algorithms used with machine learning, aiming to predict the class (average, highlighted) players belong to based on the scores given to the characteristics of football players observed by scouts.
+![Project Image](https://www.sportsbusinessjournal.com/-/media/Sporttechie/2022/08/17/soccer_scouting_part_3_lead_image.ashx?mw=768))
 
 ## Business Problem
 
